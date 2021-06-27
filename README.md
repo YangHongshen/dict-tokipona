@@ -4,6 +4,8 @@ Toki Pona Dictionary built with React Native by HS Yang.
 Since I notice that there is no phone app for toki pona Language app hence I made one :)
 The word list comes from [jProgr](https://jprogr.github.io/TokiPonaDictionary/)
 
+[Google Play Link](https://play.google.com/store/apps/details?id=com.yhhsuf.lipunimipitokipona)
+
 iOS version of app will be coming if actually someone use it.
 
 ---
